@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaickOliveir
+- 👋 Hi, I’m Maick Oliveira
 - 👀 I’m interested in Mobile Programming, travels, sports and some games.
 - 🌱 I’m currently learning Kotlin, Android JetPack
 <!---
